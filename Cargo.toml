@@ -1,0 +1,10 @@
+[package]
+name = "linearfold-rs"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust port of the LinearFold algorithm for RNA secondary structure prediction"
+license = "MIT"
+
+[dependencies]
+rustc-hash = "2.1"
+thiserror = "2.0"
